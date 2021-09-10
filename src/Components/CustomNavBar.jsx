@@ -42,7 +42,7 @@ export default function CustomNavBar() {
                     </div>
                     {navOpen && <div className="drop-down-menu">
                         <ul className="nav-item-list">
-                            <li className="nav-item"><a href="/" onClick={showDropMenu}>Home</a></li>
+                            <li className="nav-item"><a href="#" onClick={showDropMenu}>Home</a></li>
                             <li className="nav-item"><a href="#projects" onClick={showDropMenu}>Projects</a></li>
                             <li className="nav-item nav-btn-item">
                                 <div className="nav-button">
@@ -56,7 +56,7 @@ export default function CustomNavBar() {
                 <div className="nav-span">
                     <ul className="nav-item-list">
                         <li className="nav-item nav-logo"><img src={SiteLogo} className="site-logo"></img></li>
-                        <li className="nav-item"><a href="/">Home</a></li>
+                        <li className="nav-item"><a href="#">Home</a></li>
                         <li className="nav-item"><a href="#projects">Projects</a></li>
                         <li className="nav-item nav-btn-item">
                             <div className="nav-button">
