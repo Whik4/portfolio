@@ -60,6 +60,29 @@ body{
     display: flex;
 }
 
+.scroll-spider{
+    right: 3vw;
+    position: fixed;
+    height: 100vh;
+}
+
+.spider-string{
+    opacity: 0.5;
+    border: 1px white solid;
+}
+
+.spider{
+    position: absolute;
+    font-size: 2.5em;
+    transform: translate(-50%, -50%);
+}
+
+.spider a{
+    text-decoration: none;
+    color: inherit;
+}
+
+
 .site-logo{
     width: 250px;
     color: white;
@@ -417,6 +440,9 @@ body{
         justify-content: center;
     }
 
+    .scroll-spider{
+        right: 5vw;
+    }
     .title-text{
         color: #f7f4f3;
         font-size: 1.8rem;

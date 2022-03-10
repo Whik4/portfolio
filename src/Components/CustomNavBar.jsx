@@ -1,6 +1,7 @@
 import {React, useEffect, useState} from 'react'
 import SiteLogo from '../images/favicon3.svg';
 import SiteTitle from '../images/favico-title.svg';
+import ScrollSpider from './ScrollSpider';
 
 export default function CustomNavBar() {
     
@@ -65,6 +66,7 @@ export default function CustomNavBar() {
                         </li>
                     </ul>
                 </div>
+                {navColor && <ScrollSpider/>}
             </nav>
         </div>
     )

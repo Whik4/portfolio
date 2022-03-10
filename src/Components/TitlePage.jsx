@@ -10,7 +10,7 @@ export default function TitlePage() {
                 <div className="row">
                     <div className="left">
                         <div className="profile-pic">
-                            <img id="masked" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDE0qoAIZQNg/profile-displayphoto-shrink_800_800/0/1627743930637?e=1636588800&v=beta&t=BCWjsGu1-sDZFLixhRkRsHfy6SUbYXOVFvG48pSMPEo"></img>
+                            <img id="masked" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDE0qoAIZQNg/profile-displayphoto-shrink_800_800/0/1627743930637?e=1652313600&v=beta&t=GDqduUsQlfcoB8kBGjFz5au-EHEYZzx303ivSNgxS80"></img>
                         </div>
                     </div>
                     <div className="right">
@@ -36,7 +36,7 @@ export default function TitlePage() {
                             />
                             <h3 className="title-tags">&lt;Full-stack Developer/&gt;</h3>
                             <p className="title-para">
-                                I'm an ambitious CSE undergrad passionate about uprising technologies and implementation of logical approaches towards real-world problems.
+                                I'm an ambitious CSE undergraduate passionate about uprising technologies and implementation of logical approaches towards real-world problems.
                             </p>
                             <Socials/>
                         </div>
