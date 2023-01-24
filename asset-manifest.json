@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.8453b486.chunk.css",
-    "main.js": "/static/js/main.61a7832d.chunk.js",
-    "main.js.map": "/static/js/main.61a7832d.chunk.js.map",
+    "main.css": "/static/css/main.32dcb54b.chunk.css",
+    "main.js": "/static/js/main.7856909e.chunk.js",
+    "main.js.map": "/static/js/main.7856909e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
     "static/js/2.138d0798.chunk.js": "/static/js/2.138d0798.chunk.js",
     "static/js/2.138d0798.chunk.js.map": "/static/js/2.138d0798.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8453b486.chunk.css.map": "/static/css/main.8453b486.chunk.css.map",
+    "static/css/main.32dcb54b.chunk.css.map": "/static/css/main.32dcb54b.chunk.css.map",
     "static/js/2.138d0798.chunk.js.LICENSE.txt": "/static/js/2.138d0798.chunk.js.LICENSE.txt",
     "static/media/angularjs.28ae4f3c.svg": "/static/media/angularjs.28ae4f3c.svg",
     "static/media/bootstrap-4.997c463d.svg": "/static/media/bootstrap-4.997c463d.svg",
@@ -24,6 +24,7 @@
     "static/media/javascript.00f3e5cf.svg": "/static/media/javascript.00f3e5cf.svg",
     "static/media/jquery.065f616e.svg": "/static/media/jquery.065f616e.svg",
     "static/media/mysql.0c688de2.svg": "/static/media/mysql.0c688de2.svg",
+    "static/media/portfolio-pic.68333409.jpeg": "/static/media/portfolio-pic.68333409.jpeg",
     "static/media/python.e6d7dc73.svg": "/static/media/python.e6d7dc73.svg",
     "static/media/reactjs.903d77ad.svg": "/static/media/reactjs.903d77ad.svg",
     "static/media/sanskritam-logo.3c897be2.png": "/static/media/sanskritam-logo.3c897be2.png",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.5ebc510a.js",
     "static/js/2.138d0798.chunk.js",
-    "static/css/main.8453b486.chunk.css",
-    "static/js/main.61a7832d.chunk.js"
+    "static/css/main.32dcb54b.chunk.css",
+    "static/js/main.7856909e.chunk.js"
   ]
 }
