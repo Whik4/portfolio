@@ -8,7 +8,7 @@ export default function Footer() {
             <div className="footer">
                 <Socials align="center"/>
                 <h3 className="footer-text">Deployed on <i class="fab fa-github"></i></h3>
-                <h3 className="footer-text">Last Updated @Aug 2021</h3>
+                <h3 className="footer-text">Last Updated @Jan 2023</h3>
             </div>
         </div>
     )

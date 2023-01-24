@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactTypingEffect from 'react-typing-effect';
-// import profilePic from "../images/profile-pic2.jpeg";
+import profilePic from "../images/portfolio-pic.jpeg";
 import Socials from './Socials';
 
 export default function TitlePage() {
@@ -10,7 +10,7 @@ export default function TitlePage() {
                 <div className="row">
                     <div className="left">
                         <div className="profile-pic">
-                            <img id="masked" src="https://media-exp1.licdn.com/dms/image/C4E03AQFDE0qoAIZQNg/profile-displayphoto-shrink_800_800/0/1627743930637?e=1652313600&v=beta&t=GDqduUsQlfcoB8kBGjFz5au-EHEYZzx303ivSNgxS80"></img>
+                            <img id="masked" src={profilePic}></img>
                         </div>
                     </div>
                     <div className="right">

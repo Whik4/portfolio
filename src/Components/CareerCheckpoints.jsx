@@ -23,7 +23,7 @@ export default function CareerCheckpoints() {
         {
             "title" : "SDE Intern",
             "company" : "Salesforce",
-            "time" : "May 2022"
+            "time" : "June 2022-Aug 2022"
         }
     ];
 

@@ -144,14 +144,14 @@ body{
 .profile-pic{
     display: flex;
     justify-content: center;
-    transform: translateY(10%);
+    /* transform: translateY(5%); */
 }
 
 #masked{
     mask: url("https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2014/10/mask-image.png");
     mask-repeat: no-repeat;
-    mask-position: 20px -10px;
-    mask-size: 450px auto;
+    mask-position: 0 20px;
+    mask-size: 480px auto;
     width: 440px;
     /* transition: mask-position 1s ease-in-out; */
 }
