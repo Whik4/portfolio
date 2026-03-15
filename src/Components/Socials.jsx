@@ -5,7 +5,7 @@ export default function Socials(props) {
         <div className="socials">
             <ul className="socials-list">
                 <li className="socials-list-item">
-                    <a className="social-icon" href="https://www.linkedin.com/in/aman-mittal-147890205/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+                    <a className="social-icon" href="https://www.linkedin.com/in/amanmittal15/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
                 </li>
                 <li className="socials-list-item">
                     <a className="social-icon" href="https://www.instagram.com/_._amanmittal_._/" target="_blank"><i class="fab fa-instagram"></i></a>
